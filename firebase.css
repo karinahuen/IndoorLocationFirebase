@@ -1,0 +1,71 @@
+
+body{
+}
+div.container{
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+}
+legend{
+    font-size: 30px;
+    color: #555;
+    padding: .3em 0;
+}
+.btn_send{
+    background: #00bcd4;
+    color:white;
+    font-size: 80%;
+    width: 20%;
+    height: 10%;
+}
+label{
+    margin:10px 0px !important;
+}
+textarea{
+    resize: none !important;
+}
+.fl_window{
+    width: 400px;
+    position: absolute;
+    right: 0;
+    top:100px;
+}
+pre, code {
+    padding:10px 0px;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    webkit-box-sizing:border-box;
+    display:block; 
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+
+
+.pure-input-1-2{
+    height: 30%;
+    width: 30%;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 4px;
+    vertical-align: middle;
+    padding: .5em .6em;
+    display: block;
+}
+
+.div_pattern{
+    padding-top: 3%;
+}
+
+.pure-input{
+    width:5%;
+    height:5%;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 4px;
+    vertical-align: middle;
+    padding: .5em .6em;
+}
